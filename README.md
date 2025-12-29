@@ -1,7 +1,9 @@
 # Home Credit Indonesia - Default Risk Prediction Model
 
 ## 🎯 Project Overview
-This project develops a machine learning model to predict loan default risk for Home Credit Indonesia, as part of Rakamin Academy's Data Science Virtual Internship.
+This project builds a machine learning model to predict loan default 
+risk for Home Credit Indonesia. Created for Rakamin Academy's Data 
+Science Virtual Internship Final Task.
 
 **Key Objectives:**
 - Identify high-risk loan applicants accurately
