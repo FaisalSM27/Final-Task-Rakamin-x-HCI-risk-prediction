@@ -33,7 +33,7 @@ Science Virtual Internship Final Task.
 ## 🚀 How to Use
 ```bash
 # Clone repository
-git clone https://github.com/FaisalSM27/home-credit-risk-prediction.git
+git clone https://github.com/FaisalSM27/rakamin-hci-final-task.git
 
 # Install dependencies
 pip install -r requirements.txt
